@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I am a passionate Data Analyst with a Master's in Data and Decision Analytics and over 2 years of experience in the IT industry. My expertise spans the entire data analysis lifecycle, from robust extraction and transformation using SQL and PL/SQL to insightful analysis and visualization with Python, R, and Power BI. I excel in data mining, forecasting, and crafting compelling data stories that drive informed decision-making.
+Welcome to my GitHub profile! 
+
+I am a passionate Data Analyst with a Master's in Data and Decision Analytics and over 2 years of experience in the IT industry. My expertise spans the entire data analysis lifecycle, from robust extraction and transformation using SQL and PL/SQL to insightful analysis and visualization with Python, R, and Power BI. I excel in data mining, forecasting, and crafting compelling data stories that drive informed decision-making.
 
 <!--
 **Kishore2-1/kishore2-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
