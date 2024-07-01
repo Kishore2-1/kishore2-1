@@ -2,6 +2,18 @@
 
 I'm a passionate data analyst with a Master's in Data and Decision Analytics and over 2 years of experience in the IT industry. I specialize in the complete data analysis lifecycle, from extraction and transformation (SQL, PL/SQL) to analysis and visualization (Python, R, Power BI). I thrive on leveraging my expertise in data mining, forecasting, and data storytelling to generate actionable insights and support data-driven decision-making.
 
+## Skills
+
+## About Me
+
+📍 Location: United Kingdom
+🎓 Education: M.Sc. in Data and Decision Analytics at University of Southampton
+💡 Interests: Data Analysis, Machine Learning, Data Visualization, Statistical Modeling
+✉️ Email: [r.kishore2103@gmail.com](mailto:r.kishore2103@gmail.com)
+🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kishore-rajendra2103)
+💼 Experience: Former Programmer Analyst at Cognizant
+
+
 ## My Journey
 
 🔍 Exploration: My journey into data started with a curiosity to understand the world through numbers. I thrive on asking the right questions and finding innovative solutions.
@@ -59,6 +71,7 @@ When I'm not crunching numbers, you can find me:
 - 
 # Connect me:
 
+LinkedIn: 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kishore-rajendra2103/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kishore-rajendra2103/#gh-dark-mode-only)
 &nbsp;&nbsp;
