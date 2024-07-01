@@ -6,12 +6,12 @@ I'm a passionate data analyst with a Master's in Data and Decision Analytics and
 
 ## About Me
 
-📍 Location: United Kingdom
-🎓 Education: M.Sc. in Data and Decision Analytics at University of Southampton
-💡 Interests: Data Analysis, Machine Learning, Data Visualization, Statistical Modeling
-✉️ Email: [r.kishore2103@gmail.com](mailto:r.kishore2103@gmail.com)
-🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kishore-rajendra2103)
-💼 Experience: Former Programmer Analyst at Cognizant
+-📍 Location: United Kingdom
+-🎓 Education: M.Sc. in Data and Decision Analytics at University of Southampton
+-💡 Interests: Data Analysis, Machine Learning, Data Visualization, Statistical Modeling
+-✉️ Email: [r.kishore2103@gmail.com](mailto:r.kishore2103@gmail.com)
+-🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kishore-rajendra2103)
+-💼 Experience: Former Programmer Analyst at Cognizant
 
 
 ## My Journey
