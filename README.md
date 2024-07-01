@@ -57,7 +57,8 @@ When I'm not crunching numbers, you can find me:
 - 🎨 Creating data visualizations that tell powerful stories.
 - 🚴‍♂️ Exploring the great outdoors and staying active.
 - 
-# Connect me
+# Connect me:
+
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kishore-rajendra2103/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kishore-rajendra2103/#gh-dark-mode-only)
 &nbsp;&nbsp;
