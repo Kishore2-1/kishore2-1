@@ -7,9 +7,8 @@ I'm a passionate data analyst with a Master's in Data and Decision Analytics and
 - 📍 Location: United Kingdom
 - 🎓 Education: M.Sc. in Data and Decision Analytics at University of Southampton
 - 💡 Interests: Data Analysis, Machine Learning, Data Visualization, Statistical Modeling
-- ✉️ Email: [r.kishore2103@gmail.com](mailto:r.kishore2103@gmail.com)
-- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kishore-rajendra2103)
 - 💼 Experience: Former Programmer Analyst at Cognizant
+- 🥅 Currently honing my expertise in data analysis, leveraging advanced techniques in Python, R, and various visualization tools to uncover actionable insights and drive data-driven decisions
 
 ## Skills
 
@@ -50,24 +49,14 @@ I'm a passionate data analyst with a Master's in Data and Decision Analytics and
 ## Hobbies & Interests
 
 When I'm not crunching numbers, you can find me:
+
 - 📚 Reading the latest trends in data science and analytics.
 - 🎨 Creating data visualizations that tell powerful stories.
 - 🚴‍♂️ Exploring the great outdoors and staying active.
-- 
-# Connect me:
-
-LinkedIn: 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kishore-rajendra2103/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kishore-rajendra2103/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/kishore21_r/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/kishore21_r/#gh-dark-mode-only)
-
+- 📸 Capturing moments through photography.
+- ✏️ Sketching creative designs.
+- 🧩 Solving Rubik's cubes and other challenging puzzles.
 
 ---
 
 Together, we can turn data into actionable insights and drive meaningful impact. Thanks for stopping by my GitHub profile!
-
----
-
-Feel free to customize further as needed. This bio showcases your skills, experience, and enthusiasm for data analysis, making it appealing for potential employers and collaborators.
