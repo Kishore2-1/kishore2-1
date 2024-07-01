@@ -2,8 +2,6 @@
 
 I'm a passionate data analyst with a Master's in Data and Decision Analytics and over 2 years of experience in the IT industry. I specialize in the complete data analysis lifecycle, from extraction and transformation (SQL, PL/SQL) to analysis and visualization (Python, R, Power BI). I thrive on leveraging my expertise in data mining, forecasting, and data storytelling to generate actionable insights and support data-driven decision-making.
 
-## Skills
-
 ## About Me
 
 - 📍 Location: United Kingdom
@@ -13,46 +11,33 @@ I'm a passionate data analyst with a Master's in Data and Decision Analytics and
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kishore-rajendra2103)
 - 💼 Experience: Former Programmer Analyst at Cognizant
 
-
-## My Journey
-
-🔍 Exploration: My journey into data started with a curiosity to understand the world through numbers. I thrive on asking the right questions and finding innovative solutions.
-
-📊 Expertise: Proficient in Python, R, SQL, and various data visualization tools like Power BI and Excel Charts. My projects span across exploratory data analysis, predictive modeling, and creating interactive dashboards.
-
-🚀 Projects: From analyzing bike-sharing systems to predicting customer churn, I’ve worked on diverse projects that have sharpened my analytical abilities and honed my technical skills. Check out my repositories to see some of my work!
-
-## Education
-
-🎓 MSc. Data and Decision Analytics
-*University of Southampton | 2023-Present*
-
-- Modules: Machine Learning, Data Analysis, Deterministic & Stochastic OR Methods, Revenue Management, Forecasting, R, Python
-- Skills Gained: Programming, Communication, Teamwork, Research, Analytical Skills, Organization, Mathematical Modeling, Financial Modeling, Machine Learning Algorithms, Analyzing and Interpreting Results
-
-🎓 BE Electrical and Electronics Engineering
-*Reva University | 2017-2021*
-- GPA: 9.32/10
-- Skills Gained: Presentation, Model Building and Automation, Optimization Techniques, Feature Extraction from Sensor Data
-
-## Work Experience
-
-💼 Programmer Analyst
-*Cognizant Technology Solutions | Aug 2021 - May 2023*
-
-- Utilized SQL expertise to develop and optimize ETL scripts, ensuring accurate data extraction from diverse sources.
-- Proactively identified and resolved data quality issues through cleaning and manipulation techniques, ensuring data integrity.
-- Analyzed inventory, warehouse, and order transaction data to generate insightful reports using SQL, PLSQL, and Excel.
-- Led data mapping and transformation for seamless migration, collaborating cross-functionally to resolve data inaccuracies.
-- Automated validation and reporting processes, reducing discrepancies by 25% and manual effort by 85%.
-- Managed workload independently in a dynamic environment to meet challenging deadlines.
-
 ## Skills
 
-- Data Management: Data Analysis, Data Visualization, Pattern & Trend Identification, Data Storytelling
-- Programming Languages: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn), R
-- Visualization Tools: Power BI, Excel Charts
-- Others: Statistics, Probability, SQL, PLSQL
+### Data Management
+- ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAAA5?style=for-the-badge&logo=databricks&logoColor=white) 
+- ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FE8402?style=for-the-badge&logo=tableau&logoColor=white)
+- ![Pattern & Trend Identification](https://img.shields.io/badge/Pattern%20%26%20Trend%20Identification-DC5C05?style=for-the-badge&logo=trending-up&logoColor=white)
+- ![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-978B7D?style=for-the-badge&logo=storyblok&logoColor=white)
+
+### Programming Languages
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-019587?style=for-the-badge&logo=matplotlib&logoColor=white)
+- ![Seaborn](https://img.shields.io/badge/Seaborn-4CAAA5?style=for-the-badge&logoColor=white)
+- ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Visualization Tools
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+- ![Excel Charts](https://img.shields.io/badge/Excel%20Charts-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Others
+- ![Statistics](https://img.shields.io/badge/Statistics-4CAAA5?style=for-the-badge&logo=statistics&logoColor=white)
+- ![Probability](https://img.shields.io/badge/Probability-FE8402?style=for-the-badge&logo=handshake&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![PLSQL](https://img.shields.io/badge/PLSQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
+
 
 ## Let's Connect!
 
