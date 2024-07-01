@@ -1,31 +1,11 @@
-## Hi there 👋
-
-Welcome to my GitHub profile! 
-
-I am a passionate Data Analyst with a Master's in Data and Decision Analytics and over 2 years of experience in the IT industry. My expertise spans the entire data analysis lifecycle, from robust extraction and transformation using SQL and PL/SQL to insightful analysis and visualization with Python, R, and Power BI. I excel in data mining, forecasting, and crafting compelling data stories that drive informed decision-making.
-
-<!--
-**Kishore2-1/kishore2-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Welcome to My GitHub Profile!
 
 ## About Me
 
 🌟 Kishore Rajendra | Data-Driven Analyst
 
-Hello! I'm Kishore Rajendra, a passionate data analyst with a Master's in Data and Decision Analytics and over 2 years of experience in the IT industry. I specialize in the complete data analysis lifecycle, from extraction and transformation (SQL, PL/SQL) to analysis and visualization (Python, R, Power BI). I thrive on leveraging my expertise in data mining, forecasting, and data storytelling to generate actionable insights and support data-driven decision-making.
+Hey Hi!
+I'm Kishore Rajendra, a passionate data analyst with a Master's in Data and Decision Analytics and over 2 years of experience in the IT industry. I specialize in the complete data analysis lifecycle, from extraction and transformation (SQL, PL/SQL) to analysis and visualization (Python, R, Power BI). I thrive on leveraging my expertise in data mining, forecasting, and data storytelling to generate actionable insights and support data-driven decision-making.
 
 ## My Journey
 
