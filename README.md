@@ -37,15 +37,6 @@ I'm a passionate data analyst with a Master's in Data and Decision Analytics and
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![PLSQL](https://img.shields.io/badge/PLSQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
 
-
-## Let's Connect!
-
-🤝 Collaborate: I’m always open to collaborating on exciting projects. Whether you’re working on a challenging dataset or need a fresh perspective on your analysis, let's join forces and create something amazing.
-
-💼 Opportunities: Currently seeking job opportunities as a data analyst. If you have a role that matches my skill set, I’d love to connect and discuss how I can contribute to your team.
-
-📫 Reach Out: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kishore-rajendra2103) or drop me an email at [r.kishore2103@gmail.com](mailto:r.kishore2103@gmail.com). Let's make data work for us!
-
 ## Hobbies & Interests
 
 When I'm not crunching numbers, you can find me:
@@ -56,6 +47,15 @@ When I'm not crunching numbers, you can find me:
 - 📸 Capturing moments through photography.
 - ✏️ Sketching creative designs.
 - 🧩 Solving Rubik's cubes and other challenging puzzles.
+
+
+## Let's Connect!
+
+🤝 Collaborate: I’m always open to collaborating on exciting projects. Whether you’re working on a challenging dataset or need a fresh perspective on your analysis, let's join forces and create something amazing.
+
+💼 Opportunities: Currently seeking job opportunities as a data analyst. If you have a role that matches my skill set, I’d love to connect and discuss how I can contribute to your team.
+
+📫 Reach Out: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kishore-rajendra2103) or drop me an email at [r.kishore2103@gmail.com](mailto:r.kishore2103@gmail.com). Let's make data work for us!
 
 ---
 
