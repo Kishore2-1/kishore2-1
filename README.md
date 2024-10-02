@@ -12,6 +12,8 @@ I'm a passionate data analyst with a Master's in Data and Decision Analytics and
 
 ## Skills
 
+## Skills
+
 ### Data Management
 - ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAAA5?style=for-the-badge&logo=databricks&logoColor=white) 
 - ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FE8402?style=for-the-badge&logo=tableau&logoColor=white)
@@ -30,12 +32,31 @@ I'm a passionate data analyst with a Master's in Data and Decision Analytics and
 ### Visualization Tools
 - ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 - ![Excel Charts](https://img.shields.io/badge/Excel%20Charts-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 
-### Others
-- ![Statistics](https://img.shields.io/badge/Statistics-4CAAA5?style=for-the-badge&logo=statistics&logoColor=white)
-- ![Probability](https://img.shields.io/badge/Probability-FE8402?style=for-the-badge&logo=handshake&logoColor=white)
+### Machine Learning
+- ![Forecasting](https://img.shields.io/badge/Forecasting-4CAAA5?style=for-the-badge&logoColor=white)
+- ![Regression Models](https://img.shields.io/badge/Regression%20Models-DC5C05?style=for-the-badge&logo=regression&logoColor=white)
+- ![Clustering](https://img.shields.io/badge/Clustering-978B7D?style=for-the-badge&logo=clusters&logoColor=white)
+- ![PCA](https://img.shields.io/badge/PCA-FE8402?style=for-the-badge&logo=dimension&logoColor=white)
+- ![Classification](https://img.shields.io/badge/Classification-4479A1?style=for-the-badge&logo=classification&logoColor=white)
+
+### ETL & Data Transformation
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![PLSQL](https://img.shields.io/badge/PLSQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Cloud Platforms
+- ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazon-sagemaker&logoColor=white)
+- ![S3](https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white)
+
+### Soft Skills
+- ![Problem-Solving](https://img.shields.io/badge/Problem--Solving-4CAAA5?style=for-the-badge&logoColor=white)
+- ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-DC5C05?style=for-the-badge&logoColor=white)
+- ![Communication](https://img.shields.io/badge/Communication-FE8402?style=for-the-badge&logoColor=white)
+- ![Teamwork](https://img.shields.io/badge/Teamwork-4CAAA5?style=for-the-badge&logo=teamspeak&logoColor=white)
+- ![Time Management](https://img.shields.io/badge/Time%20Management-978B7D?style=for-the-badge&logo=clockify&logoColor=white)
 
 ## Hobbies & Interests
 
