@@ -12,12 +12,6 @@ I'm a passionate data analyst with a Master's in Data and Decision Analytics and
 
 ## Skills
 
-## Skills
-
-## Skills
-
-## Skills
-
 ### Data Management
 - ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-1D3557?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAARUlEQVR42mNkIBIwEqmOgRH8Jw1vYQDTFiT5CiEm5g7hZ8wYDFkA1l3BYSAk6CmSYANZsFMAkAU5mEOAySLkGnF+DOcSAeg1SCsBAKjjcjFQgzy8AAAAASUVORK5CYII=) 
 - ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-E63946?style=flat&logo=chart-bar&logoColor=white)
