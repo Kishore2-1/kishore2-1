@@ -14,49 +14,51 @@ I'm a passionate data analyst with a Master's in Data and Decision Analytics and
 
 ## Skills
 
+## Skills
+
 ### Data Management
-- ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAAA5?style=for-the-badge&logo=databricks&logoColor=white) 
-- ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FE8402?style=for-the-badge&logo=tableau&logoColor=white)
-- ![Pattern & Trend Identification](https://img.shields.io/badge/Pattern%20%26%20Trend%20Identification-DC5C05?style=for-the-badge&logo=trending-up&logoColor=white)
-- ![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-978B7D?style=for-the-badge&logo=storyblok&logoColor=white)
+- ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAAA5?style=flat-square&logo=databricks&logoColor=white) 
+- ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FE8402?style=flat-square&logo=tableau&logoColor=white)
+- ![Pattern & Trend Identification](https://img.shields.io/badge/Pattern%20%26%20Trend%20Identification-DC5C05?style=flat-square&logo=trending-up&logoColor=white)
+- ![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-978B7D?style=flat-square&logo=storyblok&logoColor=white)
 
 ### Programming Languages
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-019587?style=for-the-badge&logo=matplotlib&logoColor=white)
-- ![Seaborn](https://img.shields.io/badge/Seaborn-4CAAA5?style=for-the-badge&logoColor=white)
-- ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-019587?style=flat-square&logo=matplotlib&logoColor=white)
+- ![Seaborn](https://img.shields.io/badge/Seaborn-4CAAA5?style=flat-square&logoColor=white)
+- ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+- ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 ### Visualization Tools
-- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-- ![Excel Charts](https://img.shields.io/badge/Excel%20Charts-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-- ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+- ![Excel Charts](https://img.shields.io/badge/Excel%20Charts-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+- ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
 
 ### Machine Learning
-- ![Forecasting](https://img.shields.io/badge/Forecasting-4CAAA5?style=for-the-badge&logoColor=white)
-- ![Regression Models](https://img.shields.io/badge/Regression%20Models-DC5C05?style=for-the-badge&logo=regression&logoColor=white)
-- ![Clustering](https://img.shields.io/badge/Clustering-978B7D?style=for-the-badge&logo=clusters&logoColor=white)
-- ![PCA](https://img.shields.io/badge/PCA-FE8402?style=for-the-badge&logo=dimension&logoColor=white)
-- ![Classification](https://img.shields.io/badge/Classification-4479A1?style=for-the-badge&logo=classification&logoColor=white)
+- ![Forecasting](https://img.shields.io/badge/Forecasting-4CAAA5?style=flat-square&logoColor=white)
+- ![Regression Models](https://img.shields.io/badge/Regression%20Models-DC5C05?style=flat-square&logo=regression&logoColor=white)
+- ![Clustering](https://img.shields.io/badge/Clustering-978B7D?style=flat-square&logo=clusters&logoColor=white)
+- ![PCA](https://img.shields.io/badge/PCA-FE8402?style=flat-square&logo=dimension&logoColor=white)
+- ![Classification](https://img.shields.io/badge/Classification-4479A1?style=flat-square&logo=classification&logoColor=white)
 
 ### ETL & Data Transformation
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![PLSQL](https://img.shields.io/badge/PLSQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+- ![PLSQL](https://img.shields.io/badge/PLSQL-4479A1?style=flat-square&logo=oracle&logoColor=white)
 
 ### Cloud Platforms
-- ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- ![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazon-sagemaker&logoColor=white)
-- ![S3](https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+- ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+- ![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=flat-square&logo=amazon-sagemaker&logoColor=white)
+- ![S3](https://img.shields.io/badge/S3-FF9900?style=flat-square&logo=amazon-s3&logoColor=white)
 
 ### Soft Skills
-- ![Problem-Solving](https://img.shields.io/badge/Problem--Solving-4CAAA5?style=for-the-badge&logoColor=white)
-- ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-DC5C05?style=for-the-badge&logoColor=white)
-- ![Communication](https://img.shields.io/badge/Communication-FE8402?style=for-the-badge&logoColor=white)
-- ![Teamwork](https://img.shields.io/badge/Teamwork-4CAAA5?style=for-the-badge&logo=teamspeak&logoColor=white)
-- ![Time Management](https://img.shields.io/badge/Time%20Management-978B7D?style=for-the-badge&logo=clockify&logoColor=white)
+- ![Problem-Solving](https://img.shields.io/badge/Problem--Solving-4CAAA5?style=flat-square&logoColor=white)
+- ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-DC5C05?style=flat-square&logoColor=white)
+- ![Communication](https://img.shields.io/badge/Communication-FE8402?style=flat-square&logoColor=white)
+- ![Teamwork](https://img.shields.io/badge/Teamwork-4CAAA5?style=flat-square&logo=teamspeak&logoColor=white)
+- ![Time Management](https://img.shields.io/badge/Time%20Management-978B7D?style=flat-square&logo=clockify&logoColor=white)
 
 ## Hobbies & Interests
 
