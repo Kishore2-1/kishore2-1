@@ -62,12 +62,12 @@ My background combines strong technical skills in **Power BI, Excel, SQL, and Py
 
 I enjoy working on projects that involve:
 
-- building interactive dashboards and reports
-- analyzing trends, patterns, and operational performance
-- cleaning and transforming raw data into usable insights
-- automating reporting processes
-- supporting better business decisions through clear visualisation
-- applying analytics in supply chain and operational environments
+- Building interactive dashboards and reports
+- Analysing trends, patterns, and operational performance
+- Cleaning and transforming raw data into usable insights
+- Automating reporting processes
+- Supporting better business decisions through clear visualisation
+- Applying analytics in supply chain and operational environments
 
 ## Experience
 
