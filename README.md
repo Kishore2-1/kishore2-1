@@ -69,25 +69,6 @@ I enjoy working on projects that involve:
 - supporting better business decisions through clear visualisation
 - applying analytics in supply chain and operational environments
 
-## Featured Project
-
-### Predicting London Bike Usage Using Machine Learning
-A data analytics project focused on predicting usage patterns in London’s Santander Cycle system to support planning and resource allocation.
-
-**Tools used:**
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Power BI
-- Excel
-
-**Project highlights:**
-- Collected, cleaned, and merged 50,000+ records from TfL and weather APIs
-- Performed exploratory data analysis and data preprocessing
-- Built visualisations to identify demand trends, peak usage times, and station-level insights
-- Generated business recommendations for bike redistribution and operational planning
-
 ## Experience
 
 ### Stock Control Analyst — L'Oréal UK
