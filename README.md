@@ -1,82 +1,133 @@
-# 👋 Hi there, I'm Kishore Rajendra
+# Hi, I'm Kishore R 👋
 
-I'm a passionate data analyst with a Master's in Data and Decision Analytics and over 2 years of experience in the IT industry. I specialize in the complete data analysis lifecycle, from extraction and transformation (SQL, PL/SQL) to analysis and visualization (Python, R, Power BI). I thrive on leveraging my expertise in data mining, forecasting, and data storytelling to generate actionable insights and support data-driven decision-making.
+I'm a **Data Analytics and Data Visualization professional** with experience in transforming complex datasets into actionable business insights through **dashboards, reporting, data analysis, and process improvement**.
+
+My background combines strong technical skills in **Power BI, Excel, SQL, and Python** with hands-on experience in **supply chain, inventory, and warehouse operations**. This allows me to not only analyze data, but also understand the real business context behind it and deliver solutions that improve decision-making.
 
 ## About Me
 
-- 📍 Location: United Kingdom
-- 🎓 Education: M.Sc. in Data and Decision Analytics at University of Southampton
-- 💡 Interests: Data Analysis, Machine Learning, Data Visualization, Statistical Modeling
-- 💼 Experience: Former Programmer Analyst at Cognizant
-- 🥅 Currently honing my expertise in data analysis, leveraging advanced techniques in Python, R, and various visualization tools to uncover actionable insights and drive data-driven decisions
+- 📍 Based in the United Kingdom
+- 📊 Focused on Data Analytics and Data Visualization roles
+- 📈 Passionate about dashboard development, KPI reporting, trend analysis, and storytelling with data
+- 📦 Experienced in supply chain, inventory, warehouse, and operations analytics
+- 🛠 Skilled in Power BI, Excel, SQL, Python, Tableau, and IBM Analytics
 
-## Skills
+## Core Skills
 
-### Data Management
-- ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-1D3557?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAARUlEQVR42mNkIBIwEqmOgRH8Jw1vYQDTFiT5CiEm5g7hZ8wYDFkA1l3BYSAk6CmSYANZsFMAkAU5mEOAySLkGnF+DOcSAeg1SCsBAKjjcjFQgzy8AAAAASUVORK5CYII=) 
-- ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-E63946?style=flat&logo=chart-bar&logoColor=white)
-- ![Pattern & Trend Identification](https://img.shields.io/badge/-Pattern%20%26%20Trend%20Identification-2A9D8F?style=flat&logo=trend-micro&logoColor=white)
-- ![Data Storytelling](https://img.shields.io/badge/-Data%20Storytelling-264653?style=flat&logo=readthedocs&logoColor=white)
+### Data Analytics
+- Data Cleaning
+- Exploratory Data Analysis
+- Trend and Pattern Analysis
+- KPI Reporting
+- Forecasting Support
+- Performance Reporting
+- Data Validation
+- ETL Processes
+- Business Insight Generation
 
-### Programming Languages
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-- ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-- ![Matplotlib](https://img.shields.io/badge/-Matplotlib-019587?style=flat&logo=plotly&logoColor=white)
-- ![Seaborn](https://img.shields.io/badge/-Seaborn-4CAAA5?style=flat&logoColor=white)
-- ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-- ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+### Data Visualization & BI
+- Power BI
+- Tableau
+- IBM Analytics
+- Dashboard Development
+- DAX
+- Power Query
+- Excel Reporting
+- Pivot Tables
+- Data Storytelling
 
-### Visualization Tools
-- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-- ![Excel Charts](https://img.shields.io/badge/-Excel%20Charts-217346?style=flat&logo=microsoft-excel&logoColor=white)
-- ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
+### Technical Skills
+- Python
+- SQL
+- MySQL
+- PL/SQL
+- R
+- Excel Advanced Formulas
+- Macros
+- JSON
+- XML
 
-### Machine Learning
-- ![Forecasting](https://img.shields.io/badge/-Forecasting-4CAAA5?style=flat&logo=forecast&logoColor=white)
-- ![Regression Models](https://img.shields.io/badge/-Regression%20Models-DC5C05?style=flat&logo=regression&logoColor=white)
-- ![Clustering](https://img.shields.io/badge/-Clustering-978B7D?style=flat&logo=cluster&logoColor=white)
-- ![PCA](https://img.shields.io/badge/-PCA-FE8402?style=flat&logo=pca&logoColor=white)
-- ![Classification](https://img.shields.io/badge/-Classification-4479A1?style=flat&logo=classification&logoColor=white)
+### Domain Experience
+- Supply Chain Analytics
+- Inventory Management
+- Warehouse Operations
+- Stock Accuracy Improvement
+- Allocation Planning
+- Forecasting Support
+- WMS and ERP Support
+- SAP
+- Manhattan Active WMS
 
-### ETL & Data Transformation
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-- ![PLSQL](https://img.shields.io/badge/-PLSQL-4479A1?style=flat&logo=oracle&logoColor=white)
+## What I Do
 
-### Cloud Platforms
-- ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-- ![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-- ![SageMaker](https://img.shields.io/badge/-SageMaker-232F3E?style=flat&logo=amazon-sagemaker&logoColor=white)
-- ![S3](https://img.shields.io/badge/-S3-FF9900?style=flat&logo=amazon-s3&logoColor=white)
+I enjoy working on projects that involve:
 
-### Soft Skills
-- ![Problem-Solving](https://img.shields.io/badge/-Problem--Solving-4CAAA5?style=flat&logoColor=white)
-- ![Critical Thinking](https://img.shields.io/badge/-Critical%20Thinking-DC5C05?style=flat&logoColor=white)
-- ![Communication](https://img.shields.io/badge/-Communication-FE8402?style=flat&logoColor=white)
-- ![Teamwork](https://img.shields.io/badge/-Teamwork-4CAAA5?style=flat&logo=teamspeak&logoColor=white)
-- ![Time Management](https://img.shields.io/badge/-Time%20Management-978B7D?style=flat&logo=clockify&logoColor=white)
+- building interactive dashboards and reports
+- analyzing trends, patterns, and operational performance
+- cleaning and transforming raw data into usable insights
+- automating reporting processes
+- supporting better business decisions through clear visualisation
+- applying analytics in supply chain and operational environments
 
-## Hobbies & Interests
+## Featured Project
 
-When I'm not crunching numbers, you can find me:
+### Predicting London Bike Usage Using Machine Learning
+A data analytics project focused on predicting usage patterns in London’s Santander Cycle system to support planning and resource allocation.
 
-- 📚 Reading the latest trends in data science and analytics.
-- 🎨 Creating data visualizations that tell powerful stories.
-- 🚴‍♂️ Exploring the great outdoors and staying active.
-- 📸 Capturing moments through photography.
-- ✏️ Sketching creative designs.
-- 🧩 Solving Rubik's cubes and other challenging puzzles.
+**Tools used:**
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Power BI
+- Excel
 
+**Project highlights:**
+- Collected, cleaned, and merged 50,000+ records from TfL and weather APIs
+- Performed exploratory data analysis and data preprocessing
+- Built visualisations to identify demand trends, peak usage times, and station-level insights
+- Generated business recommendations for bike redistribution and operational planning
 
-## Let's Connect!
+## Experience
 
-🤝 Collaborate: I’m always open to collaborating on exciting projects. Whether you’re working on a challenging dataset or need a fresh perspective on your analysis, let's join forces and create something amazing.
+### Stock Control Analyst — L'Oréal UK
+*Aug 2025 – Present*
+- Built dashboards and reporting solutions using Power BI, Excel, and Python to improve operational visibility.
+- Analyzed inventory and SKU allocation data to support warehouse optimisation and planning.
+- Developed validation and ETL workflows to improve data quality and inventory accuracy.
 
-💼 Opportunities: Currently seeking job opportunities as a data analyst. If you have a role that matches my skill set, I’d love to connect and discuss how I can contribute to your team.
+### Stock Controller — L'Oréal UK
+*Mar 2025 – Aug 2025*
+- Created reporting and analysis solutions for forecasting, allocation, and stock performance.
+- Improved inventory accuracy through data checks and process improvements.
+- Transformed raw operational data into actionable business insights.
 
-📫 Reach Out: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kishore-rajendra2103) or drop me an email at [r.kishore2103@gmail.com](mailto:r.kishore2103@gmail.com). Let's make data work for us!
+### Programmer Analyst — Cognizant
+*Aug 2021 – May 2023*
+- Developed reports and automated ETL workflows using SQL and PL/SQL.
+- Analyzed large datasets to identify trends, anomalies, and operational metrics.
+- Supported UAT and data migration activities for business reporting needs.
+
+## Education
+
+- **MSc in Data and Decision Analytics** — University of Southampton
+- **BE in Electrical and Electronics Engineering** — Reva University
+
+## Career Focus
+
+Currently seeking opportunities in Data Analytics, Data Visualization, BI Reporting, and Supply Chain Analytics roles in India.
+I am currently building my portfolio for opportunities in:
+
+- Data Analytics
+- Data Visualization
+- BI / Reporting Analyst roles
+- Business Intelligence
+- Operations and Supply Chain Analytics
+
+## Connect With Me
+
+- LinkedIn: [kishore-rajendra2103](https://www.linkedin.com/in/kishore-rajendra2103)
+- GitHub: [Kishore2-1](https://github.com/Kishore2-1)
 
 ---
-
-Together, we can turn data into actionable insights and drive meaningful impact. 
-Thanks for stopping by my GitHub profile! 😉
+⭐ I’m interested in roles where I can use data, dashboards, and visualization to solve business problems and support better decision-making.
