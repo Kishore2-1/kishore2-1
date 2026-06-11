@@ -96,7 +96,7 @@ I enjoy working on projects that involve:
 
 ## Career Focus
 
-Currently seeking opportunities in Data Analytics, Data Visualization, BI Reporting, and Supply Chain Analytics roles in India.
+Open to BI Analyst, Data Analyst, Reporting Analyst & Supply Chain Analyst roles in the UK.
 I am currently building my portfolio for opportunities in:
 
 - Data Analytics
