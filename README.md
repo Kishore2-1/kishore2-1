@@ -78,7 +78,7 @@ I enjoy working on projects that involve:
 - Monitored inventory synchronisations and Azure snapshot updates, investigated integration failures and coordinated root-cause fixes with technical teams.
 - Supported Continuous Improvement initiatives, WMS configuration enhancements and onboarding through collaboration across departments.
 
-### Data Reporting & Supply Chain Analytics (Stock Controller)  — L'Oréal UK
+### Data Reporting & Supply Chain Analytics (Stock Controller) — L'Oréal UK
 *Mar 2025 – Aug 2025*
 - Automated recurring reporting pipelines using SQL and Excel to extract, clean, and transform structured operational data, significantly reducing manual data-pull effort.
 - Designed governed datasets and reusable reporting models to track warehouse operations, inventory movement, and stock accuracy across multiple brands.
