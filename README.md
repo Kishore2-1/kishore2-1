@@ -6,7 +6,7 @@ My background combines strong technical skills in **Power BI, Excel, SQL, Azure,
 ## About Me
 
 - 📍 Based in the United Kingdom
-- 📊 Focused on BI And Data Analytic roles
+- 📊 Focused on Data / BI And Data Engineering roles
 - 📈 Passionate about dashboard development, KPI reporting, trend analysis, and storytelling with data
 - 📦 Experienced in supply chain, inventory, warehouse, and operations analytics
 - 🛠 Skilled in Power BI, Excel, SQL, Python, Tableau, and IBM Analytics
