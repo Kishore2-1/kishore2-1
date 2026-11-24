@@ -1,8 +1,7 @@
 # Hi, I'm Kishore Rajendra 👋
 
-I'm a **Data Analytics and Data Visualization professional** with experience in transforming complex datasets into actionable business insights through **dashboards, reporting, data analysis, and process improvement**.
-
-My background combines strong technical skills in **Power BI, Excel, SQL, Fabrics, Databricks and Python** with hands-on experience in **supply chain, inventory, and warehouse operations**. This allows me to not only analyze data, but also understand the real business context behind it and deliver solutions that improve decision-making.
+I’m a **Data & BI Analyst** with experience in enterprise reporting, data analysis, automation and data migration. At L’Oréal UK and Cognizant, I’ve worked with SQL, Power BI, Python, Excel, IBM Cognos and Azure Synapse Analytics to improve reporting, strengthen data quality and make information easier to act on.
+My background combines strong technical skills in **Power BI, Excel, SQL, Azure, ETL Pipeline, Fabrics, Databricks and Python**.
 
 ## About Me
 
@@ -14,46 +13,21 @@ My background combines strong technical skills in **Power BI, Excel, SQL, Fabric
 
 ## Core Skills
 
-### Data Analytics
-- Data Cleaning
-- Exploratory Data Analysis
-- Trend and Pattern Analysis
-- KPI Reporting
-- Forecasting Support
-- Performance Reporting
-- Data Validation
-- ETL Processes
-- Business Insight Generation
+### SQL & Programming: 
+SQL (Oracle, PL/SQL, CTEs, window functions, stored procedures), Python (pandas, PySpark), Advanced Excel
+### Data Modelling & Engineering: 
+Dimensional modelling (star schema, fact and dimension tables), semantic models, ETL/ELT, dbt, data transformation, data quality, data lineage, Oracle Data Integrator (ODI)
+### Cloud & Data Platforms: 
+Microsoft Fabric (Lakehouse, Data Factory), Azure Synapse Analytics, Azure SQL Database, Databricks, Azure DevOps
+### Engineering & Delivery: 
+Git, GitHub Actions, CI/CD, Jira, Postman, SAP S/4HANA, Manhattan Active WMS, requirements gathering, UAT, Agile/Scrum, technical documentation
+### BI & Visualisation: 
+Power BI (DAX, Power Query, semantic models, row-level security), IBM Cognos Analytics, Tableau, dashboard design, SLA and performance reporting, ad-hoc analysis
+### AI & Automation: 
+Claude Code, Copilot, LLM-assisted analysis and report development, workflow automation
+### Data Science & Machine Learning: 
+Python, R, forecasting, classification, feature engineering, hypothesis testing, statistics, scikit-learn, TensorFlow, Keras
 
-### Data Visualization & BI
-- Power BI
-- Tableau
-- IBM Analytics
-- Dashboard Development
-- DAX
-- Power Query
-- Excel Reporting
-- Pivot Tables
-- Data Storytelling
-
-### Technical Skills
-- Python
-- SQL
-- MySQL
-- PL/SQL
-- R
-- Excel Advanced Formulas
-- Macros
-- JSON
-- XML
-
-### Domain Experience
-- Supply Chain Analytics
-- Data Migration
-- Warehouse Operations
-- WMS and ERP Support
-- SAP
-- Manhattan Active WMS
 
 ## What I Do
 
@@ -68,34 +42,35 @@ I enjoy working on projects that involve:
 
 ## Experience
 
-### Data Analytics & BI (Stock Control Analyst) — L'Oréal UK
+### Data Analytics & BI — L'Oréal UK
 *Aug 2025 – Present*
-- Built reports for operational departments in IBM Cognos Analytics using advanced SQL within ETL workflows. Extracted and transformed data, applying validation and quality checks to ensure reporting accuracy.
-- Designed star-schema models with fact and dimension tables and developed interactive Power BI dashboards using DAX measures to track Labour Management System KPIs, monitor inventory and highlight exceptions.
-- Used Python and SQL to investigate bottlenecks in storage locations consistently operating at 90% capacity, supporting decisions to optimise location slotting and improve picking efficiency.
-- Built automated Excel tools for non-technical stakeholders to analyse inventory and support location-slotting decisions, reducing manual work by 30%.
-- Gathered reporting requirements and documented data definitions, KPI calculations and transformation rules across Manhattan Active WMS, SAP S/4HANA and reporting layers.
-- Monitored inventory synchronisations and Azure snapshot updates, investigated integration failures and coordinated root-cause fixes with technical teams.
-- Supported Continuous Improvement initiatives, WMS configuration enhancements and onboarding through collaboration across departments.
+-	Delivered Power BI reporting for three warehouse sites on inventory, pick rates and pick times by designing star-schema models and DAX measures on Azure Synapse Analytics data, applying row-level security and publishing through Power BI Service with weekly scheduled refreshes.
+-	Cut weekly reporting time by 86% (6 hours to 50 minutes) by writing advanced SQL against Azure SQL Database, building Cognos packages and models, and developing IBM Cognos Analytics reports.
+-	Enabled self-service reporting for operations teams by performing data validation and quality-control checks before publishing.
+-	Aligned reporting logic across three sites by standardising metric definitions, creating user guides and mentoring non-technical stakeholders to support adoption.
+-	Reduced storage-location utilisation from 90% to 40% by analysing five months of historical activity data in Python and SQL, identifying persistent capacity bottlenecks that informed slotting changes.
+-	Tailored inbound, outbound and returns reporting for stakeholders in Power BI and Cognos from Manhattan Active WMS data.
+-	Built an Excel tool with Power Query that prepares data and suggests a storage location when users enter a product, reducing manual work by 30%, while supporting WMS feature enhancements.
 
-### Data Reporting & Supply Chain Analytics (Stock Controller) — L'Oréal UK
+
+### Stock Controller — L'Oréal UK
 *Mar 2025 – Aug 2025*
-- Automated recurring reporting pipelines using SQL and Excel to extract, clean, and transform structured operational data, significantly reducing manual data-pull effort.
-- Designed governed datasets and reusable reporting models to track warehouse operations, inventory movement, and stock accuracy across multiple brands.
-- Partnered directly with supply chain and planning stakeholders to translate operational requirements into clear KPI logic and custom reports.
+-	Built recurring operational, inventory and SLA reports in IBM Cognos Analytics, using SQL and ETL workflows to extract and transform data, tracking service-level performance and reducing manual data-pull effort.
+-	Designed reusable reporting models tracking warehouse operations, inventory movement and stock accuracy across multiple brands.
+-	Ran UAT for configuration changes to SAP S/4HANA and Manhattan Active WMS, coordinating fixes with technical teams.
 
-### Programmer Analyst — Cognizant
+
+### Programmer Analyst (Data Migration) — Cognizant
 *Aug 2021 – May 2023*
-- Delivered end-to-end data migration workflows for a third-party logistics (3PL) client, transferring enterprise operational and transactional data between legacy and target Oracle databases.
-- Designed and built new relational database (RDB) tables and staging schemas from scratch to ingest new source datasets, integrate multi-source feeds, and combine disparate data.
-- Wrote complex SQL queries utilising CTEs, joins, and aggregations to extract, transform, and validate large datasets without data loss.
-- Built automated PL/SQL procedures, functions, and scripts with robust exception handling to eliminate manual extraction steps and monitor execution.
-- Developed Python-based data pipelines for scheduled batch ingestion into the target database platform.
-- Applied star schema dimensional modelling to standardise raw source data into scalable reporting layers, achieving a reported 20% reduction in transformation effort.
-- Built additional fact and dimension tables based on business requirements, documenting data definitions and transformation logic for ongoing maintenance.
-- Built data-validation scripts and reconciliation controls to identify data defects before cutover and verify full post-migration accuracy.
-- Executed UAT test cases and validated REST APIs and endpoints using Postman, resolving defects in coordination with business users.
-- Designed migration tracking dashboards in Power BI to monitor cutover progress and satisfy business reporting needs.
+-	Automated data loading, validation and standardisation by building Python ETL pipelines with SQL, reducing manual steps and transformation effort.
+-	Completed a four-month ERP data migration of operational and transactional data on schedule, using Oracle Data Integrator (ODI) and PL/SQL for extraction and transformation.
+-	Achieved zero critical issues at go-live by building validation and reconciliation controls, resolving defects and completing phased regression testing and UAT across two pre-go-live test cycles.
+-	Developed and optimised SQL and PL/SQL scripts (CTEs, joins, aggregations, stored procedures) with error handling, cutting manual extraction and checking effort.
+-	Integrated data from multiple sources by designing relational and staging schemas and star-schema fact and dimension tables.
+-	Documented data definitions, transformation logic and data lineage to support traceability and ongoing maintenance.
+-	Worked in a five-person Agile team using Git, GitHub and Jira, and tested REST APIs in Postman to verify data flows.
+-	Gave managers and client stakeholders visibility of migration progress, error rates and ticket resolution through Power BI dashboards built with DAX and Power Query.
+
 
 ## Education
 
@@ -108,7 +83,7 @@ Open to BI Analyst, Data Analyst, Reporting Analyst & Supply Chain Analyst roles
 I am currently building my portfolio for opportunities in:
 
 - Data Analytics
-- Data Visualization
+- Data Engineer
 - BI / Reporting Analyst roles
 - Analytical Engineering
 
