@@ -42,7 +42,7 @@ I enjoy working on projects that involve:
 
 ## Experience
 
-### Data Analytics & BI — L'Oréal UK
+### Data Analytics & BI - L'Oréal UK
 *Aug 2025 – Present*
 -	Delivered Power BI reporting for three warehouse sites on inventory, pick rates and pick times by designing star-schema models and DAX measures on Azure Synapse Analytics data, applying row-level security and publishing through Power BI Service with weekly scheduled refreshes.
 -	Cut weekly reporting time by 86% (6 hours to 50 minutes) by writing advanced SQL against Azure SQL Database, building Cognos packages and models, and developing IBM Cognos Analytics reports.
@@ -53,14 +53,14 @@ I enjoy working on projects that involve:
 -	Built an Excel tool with Power Query that prepares data and suggests a storage location when users enter a product, reducing manual work by 30%, while supporting WMS feature enhancements.
 
 
-### Stock Controller — L'Oréal UK
+### Stock Controller - L'Oréal UK
 *Mar 2025 – Aug 2025*
 -	Built recurring operational, inventory and SLA reports in IBM Cognos Analytics, using SQL and ETL workflows to extract and transform data, tracking service-level performance and reducing manual data-pull effort.
 -	Designed reusable reporting models tracking warehouse operations, inventory movement and stock accuracy across multiple brands.
 -	Ran UAT for configuration changes to SAP S/4HANA and Manhattan Active WMS, coordinating fixes with technical teams.
 
 
-### Programmer Analyst (Data Migration) — Cognizant
+### Programmer Analyst (Data Migration) - Cognizant
 *Aug 2021 – May 2023*
 -	Automated data loading, validation and standardisation by building Python ETL pipelines with SQL, reducing manual steps and transformation effort.
 -	Completed a four-month ERP data migration of operational and transactional data on schedule, using Oracle Data Integrator (ODI) and PL/SQL for extraction and transformation.
@@ -74,8 +74,8 @@ I enjoy working on projects that involve:
 
 ## Education
 
-- **MSc in Data and Decision Analytics** — University of Southampton
-- **BE in Electrical and Electronics Engineering** — Reva University
+- **MSc in Data and Decision Analytics** - University of Southampton
+- **BE in Electrical and Electronics Engineering** - Reva University
 
 ## Career Focus
 
